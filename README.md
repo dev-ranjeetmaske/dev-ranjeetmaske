@@ -59,7 +59,6 @@
 
 </div>
 
-> 💡 *Icons powered by [skillicons.dev](https://skillicons.dev) — add/remove any skill by editing the `i=` list in the image URL, comma-separated, no spaces.*
 
 ---
 
