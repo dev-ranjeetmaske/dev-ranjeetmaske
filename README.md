@@ -115,22 +115,22 @@ I take on paid freelance work creating short-form and promotional videos using g
 ---
 
 ## 📊 GitHub Stats & Progress
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-ranjeetmaske&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=dev-ranjeetmaske&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ranjeetmaske&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=dev-ranjeetmaske&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&hide_rank=true" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=dev-ranjeetmaske&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="165"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ranjeetmaske&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages" />
 <!-- Progress / activity line graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ranjeetmaske&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-ranjeetmaske&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ranjeetmaske&theme=react-dark&hide_border=true&area=true&custom_title=Ranjeet%20Maske's%20Contribution%20Graph" alt="Activity Graph" width="100%"/>
 </div>
-
-> 💡 *If any widget above shows "Error" instead of an image, it's usually a temporary rate-limit on the free Vercel-hosted service — just refresh the page after a minute, or fork the corresponding project and self-host it (links: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), [activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph), [profile-trophy](https://github.com/ryo-ma/github-profile-trophy)).*
+ 
+<div align="center">
+  
+### 🏆 Trophies
+ 
+<img src="https://github-trophies.vercel.app/?username=dev-ranjeetmaske&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" onerror="this.style.display='none'" />
+</div>
 
 ---
 
@@ -144,16 +144,7 @@ I take on paid freelance work creating short-form and promotional videos using g
 <a href="mailto:maskeranjeet40@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://medium.com/@your-username" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://stackoverflow.com/users/your-id/your-username" target="_blank">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-</a>
-<a href="https://twitter.com/your-username" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/your-username" target="_blank">
+<a href="https://instagram.com/ranjeet_maske007" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
