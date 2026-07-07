@@ -1,22 +1,171 @@
-<h1 align="center">Hi 👋, I'm Ranjeet Maske</h1>
-<h3 align="center">A passionate Fullstack developer from Pune, India</h3>
+<!--
+=====================================================================
+  README.md — GitHub Profile
+  Owner: Ranjeet Maske
+  Notes for Ranjeet (delete this comment block once you're done):
+  1. Replace every "your-username" / placeholder link with your real
+     handle (Medium, Stack Overflow, Twitter/X, Instagram, etc.)
+  2. Replace the "Pinned Projects" repo names with your real repos.
+  3. All badges below use skillicons.dev and shields.io — both are
+     stable, actively maintained CDNs, so icons will render reliably
+     (unlike raw devicon SVG links, which sometimes fail to load).
+=====================================================================
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ranjeetmaske&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ranjeetmaske" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ranjeetmaske" alt="dev-ranjeetmaske" /></a> </p>
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranjeet+Maske;Fullstack+Developer+from+Pune%2C+India;I+build+Web+Apps+%7C+I+create+AI+Videos;Always+learning%2C+always+building." alt="Typing SVG" />
 
-- 📫 How to reach me **maskeranjeet40@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ranjeet-maske-b655ba386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeet-maske-b655ba386" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=dev-ranjeetmaske&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/dev-ranjeetmaske?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ranjeetmaske&show_icons=true&locale=en&layout=compact" alt="dev-ranjeetmaske" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ranjeetmaske&show_icons=true&locale=en" alt="dev-ranjeetmaske" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ranjeetmaske&" alt="dev-ranjeetmaske" /></p>
+- 🔭 I'm a **Fullstack Developer** from **Pune, India**, working across the MERN stack and Python.
+- 🌱 Currently sharpening my skills in modern **React**, backend architecture, and clean API design.
+- 🎬 On the creative side, I take up **freelance / paid AI video generation projects** — turning ideas into short-form video content using generative AI tools.
+- 💬 Ask me about **JavaScript, React, Node.js, Python, or AI creative tools**.
+- ⚡ Fun fact: I enjoy mixing **code + creativity** — from building apps to producing AI-generated videos.
+- 📫 **Reach me:** `maskeranjeet40@gmail.com`
+
+---
+
+## 🛠️ Software & Development Skills
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,py,cpp,html,css" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js" alt="frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="backend" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma" alt="tools" />
+
+</div>
+
+> 💡 *Icons powered by [skillicons.dev](https://skillicons.dev) — add/remove any skill by editing the `i=` list in the image URL, comma-separated, no spaces.*
+
+---
+
+## 🎬 Creative / Hobby Skills — AI Video Generation (Freelance & Paid Projects)
+
+I take on paid freelance work creating short-form and promotional videos using generative AI tools:
+
+<div align="center">
+
+![Runway](https://img.shields.io/badge/Runway%20ML-6957E8?style=for-the-badge&logo=runway&logoColor=white)
+![Pika Labs](https://img.shields.io/badge/Pika%20Labs-000000?style=for-the-badge&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-1F1F1F?style=for-the-badge&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+</div>
+
+- 🎞️ Script-to-video generation using AI (text/image → video pipelines)
+- 🗣️ AI voiceovers & lip-sync for short-form content
+- ✂️ Editing, color grading, and export for Reels/Shorts/YouTube
+- 💼 Available for freelance/paid collaborations — [contact me](mailto:maskeranjeet40@gmail.com)
+
+---
+
+## 📌 Pinned / Top Projects
+
+<!-- Replace repo names below with your actual repositories -->
+<div align="center">
+
+<a href="https://github.com/dev-ranjeetmaske/repo-one">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=repo-one&theme=tokyonight" alt="Project 1" />
+</a>
+<a href="https://github.com/dev-ranjeetmaske/repo-two">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=repo-two&theme=tokyonight" alt="Project 2" />
+</a>
+
+<a href="https://github.com/dev-ranjeetmaske/repo-three">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=repo-three&theme=tokyonight" alt="Project 3" />
+</a>
+<a href="https://github.com/dev-ranjeetmaske/repo-four">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=repo-four&theme=tokyonight" alt="Project 4" />
+</a>
+
+</div>
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| Project One | Short one-line description of what it does | React, Node.js, MongoDB | [Repo](#) |
+| Project Two | Short one-line description of what it does | Python, Flask | [Repo](#) |
+| Project Three | Short one-line description of what it does | JavaScript, Express | [Repo](#) |
+
+---
+
+## 📊 GitHub Stats & Progress
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-ranjeetmaske&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=dev-ranjeetmaske&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ranjeetmaske&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+
+<!-- Progress / activity line graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ranjeetmaske&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dev-ranjeetmaske&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+</div>
+
+> 💡 *If any widget above shows "Error" instead of an image, it's usually a temporary rate-limit on the free Vercel-hosted service — just refresh the page after a minute, or fork the corresponding project and self-host it (links: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), [activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph), [profile-trophy](https://github.com/ryo-ma/github-profile-trophy)).*
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ranjeet-maske/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:maskeranjeet40@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://medium.com/@your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="https://stackoverflow.com/users/your-id/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+<a href="https://twitter.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+<!--
+  Remember to swap "your-username" in the Medium / Stack Overflow /
+  Twitter / Instagram links above with your real profile URLs.
+-->
+
+<div align="center">
+
+⭐️ From [dev-ranjeetmaske](https://github.com/dev-ranjeetmaske) — thanks for stopping by!
+
+</div>
