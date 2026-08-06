@@ -107,12 +107,9 @@ I take on paid freelance work creating short-form and promotional videos using g
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| Project One | Short one-line description of what it does | React, Node.js, MongoDB | [Repo](#) |
-| Project Two | Short one-line description of what it does | Python, Flask | [Repo](#) |
-| Project Three | Short one-line description of what it does | JavaScript, Express | [Repo](#) |
-
----
-
+| **Krownless** | Anonymous social media platform for college students with secure authentication, real-time posts, comments, likes, and a modern responsive UI. | React, Vite, Tailwind CSS, Supabase | [Repo](https://github.com/dev-ranjeetmaske/krownless-web-app) |
+| **Tweet Market Analysis** | Data analytics project that analyzes tweets and stock market trends using Python, performs sentiment analysis, and visualizes insights with Power BI dashboards. | Python, Pandas, NLP, Power BI | [Repo](https://github.com/dev-ranjeetmaske/tweet-market-analysis) |
+| **BIDX** | Full-stack bidding/auction platform featuring user authentication, item listings, real-time bidding, and responsive web design. | JavaScript, Node.js, Express, MongoDB | [Repo](https://github.com/dev-ranjeetmaske/bidx) |
 ## 📊 GitHub Stats & Progress
  
 <div align="center">
