@@ -86,22 +86,21 @@ I take on paid freelance work creating short-form and promotional videos using g
 
 ## 📌 Pinned / Top Projects
 
-<!-- Replace repo names below with your actual repositories -->
 <div align="center">
 
-<a href="https://github.com/dev-ranjeetmaske/repo-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=repo-one&theme=tokyonight" alt="Project 1" />
-</a>
-<a href="https://github.com/dev-ranjeetmaske/repo-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=repo-two&theme=tokyonight" alt="Project 2" />
+<a href="https://github.com/dev-ranjeetmaske/krownless-web-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=krownless-web-app&theme=tokyonight" alt="Krownless" />
 </a>
 
-<a href="https://github.com/dev-ranjeetmaske/repo-three">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=repo-three&theme=tokyonight" alt="Project 3" />
+<a href="https://github.com/dev-ranjeetmaske/tweet-market-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=tweet-market-analysis&theme=tokyonight" alt="Tweet Market Analysis" />
 </a>
-<a href="https://github.com/dev-ranjeetmaske/repo-four">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=repo-four&theme=tokyonight" alt="Project 4" />
+
+<a href="https://github.com/dev-ranjeetmaske/bidx">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ranjeetmaske&repo=bidx&theme=tokyonight" alt="BIDX" />
 </a>
+
+</div>
 
 </div>
 
